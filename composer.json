@@ -1,6 +1,6 @@
 {
-  "name": "wardrobe/core",
-  "description": "The WardrobeCMS core files",
+  "name": "blazerman/core",
+  "description": "My fork of Wardrobe for learning",
   "keywords": [
     "blog",
       "laravel",
@@ -8,13 +8,8 @@
   ],
   "authors": [
     {
-      "name": "Eric L Barnes",
-      "email": "eric@ericlbarnes.com",
-      "role": "Developer"
-    },
-    {
-      "name": "Ryan Tablada",
-      "email": "ryan.tablada@gmail.com",
+      "name": "blazerman",
+      "email": "blazermail@hmamail.com",
       "role": "Developer"
     }
   ],
