@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>@yield('title') | Wardrobe</title>
+  <title>@yield('title') | Test</title>
   <meta name="env" content="{{ App::environment() }}">
   <meta name="token" content="{{ Session::token() }}">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
